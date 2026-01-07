@@ -6,10 +6,10 @@ variable "ami_info" {
 
 variable "ins_type" {
   type = string
-  #default = "t3.micro"
+  default = "t3.micro"
 }
 
 variable "vm_name" {
   type = string
-  #default = "amargit-vm1"
+  default = "amargit-vm1"
 }
