@@ -11,5 +11,5 @@ variable "ins_type" {
 
 variable "vm_name" {
   type = string
-  #default = "amar-vm4"
+  #default = "amargit-vm1"
 }
