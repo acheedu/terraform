@@ -11,5 +11,5 @@ variable "ins_type" {
 
 variable "vm_name" {
   type = string
-  default = "amargit-vm1"
+  default = "amargit-day3"
 }
